@@ -1,2 +1,5 @@
 # string
-String project from CS2 at Kent State University
+C++ String project from CS2  
+
+Nathan Fleet  
+Kent State University
